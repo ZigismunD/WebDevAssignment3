@@ -98,6 +98,10 @@ h1 {
     padding: 20px;
 }
 
+p {
+    padding: 10px;
+}
+
 @media screen and (max-width: 1500px) {
 
     #info {
